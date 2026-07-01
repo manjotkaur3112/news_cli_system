@@ -35,7 +35,7 @@ news_cli/
 
 ```bash
 python main.py
-
+```
 ---
 
 ## 💾 Data Storage
@@ -72,6 +72,7 @@ This project helped practice:
 * Searching Data
 * Deleting Records
 * Building a CLI Application
+
 ---
 
 ## 👨‍💻 Editor
